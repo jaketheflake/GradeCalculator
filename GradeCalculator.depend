@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1464946025 source:c:\users\jake\desktop\codeblocksprojects\gradecalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1464946234 c:\users\jake\desktop\codeblocksprojects\gradecalculator\header.h
+
